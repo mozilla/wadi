@@ -10,7 +10,7 @@ So it doesn't contain code, just issues, each of which represents a project (or 
 
 ## Using This Repo
 
-For each project (or idea for a project), [submit an issue](https://github.com/mozilla/wadi/issues/new) whose title is the name of the project. In the *Description* field, summarize the project, with links to detailed information like product requirements documents, GitHub repositories, etc. if available.
+For each project (or idea for a project), [submit an issue](https://github.com/mozilla/wadi/issues/new) whose title is the name of the project. In the *Description* field, summarize the project, with links to detailed information like product requirements documents, GitHub milestones, etc. if available.
 
 If someone has committed to completing the project by a certain date, then put it into the appropriate *Milestone* and set its *Assignee* to the project lead.
 
