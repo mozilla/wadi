@@ -8,10 +8,14 @@ The repository doesn't track the discrete issues (features, enhancements, bugs) 
 
 So it doesn't contain code, just issues, each of which represents a project (or idea for a project) that WADI contributors are undertaking (or considering). Milestones identify the time periods within which we expect to complete the projects. Assignees represent project leads, i.e. the person responsible for completion of the project. Projects with the *in progress* label are underway and must have a project lead and milestone. Projects with the *backlog* label are under consideration.
 
-## Using This Repo
+## Adding A Project
 
 For each project (or idea for a project), [submit an issue](https://github.com/mozilla/wadi/issues/new) whose title is the name of the project. In the *Description* field, summarize the project, with links to detailed information like product requirements documents, GitHub milestones, etc. if available.
 
 If someone has committed to completing the project by a certain date, then put it into the appropriate *Milestone* and set its *Assignee* to the project lead.
 
 If it's an idea for a project, leave the *Milestone* and *Assignee* fields empty, and use the issue to discuss it with others, updating the description as the idea evolves.
+
+## Tracking Projects
+
+Track projects as a [list of issues](https://github.com/mozilla/wadi/issues) or [kanban board](https://waffle.io/mozilla/wadi).
