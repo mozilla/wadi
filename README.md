@@ -6,7 +6,7 @@ A *project* is an effort to achieve a particular outcome within a specific perio
 
 The repository doesn't track the discrete issues (features, enhancements, bugs) within each project, only the projects themselves. It is a kind of meta-tracker for projects.
 
-So it doesn't contain code, just issues, each of which represents a project (or idea for a project) that WADI contributors are undertaking (or considering). Milestones identify the time periods within which we expect to complete the projects. Assignees represent project leads, i.e. the person responsible for completion of the project. Projects with the *in progress* label are underway and must have a project lead and milestone. Projects with the *backlog* label are under consideration.
+So it doesn't contain code, just issues, each of which represents a project (or idea for a project) that WADI contributors are undertaking (or considering). Milestones identify the time periods within which we expect to complete the projects. Assignees represent project leads, i.e. the person responsible for completion of the project. Projects with the *in progress* label are underway and must have a project lead and milestone. All other projects are in the backlog.
 
 ## Adding A Project
 
